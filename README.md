@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @KeveeG
+- 👀 I’m interested in Finance and coding
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to collaborate on Projects for anyone that would be willing to teach me
+- 📫 Reach me at my email, kevingutierrez103011@gmail.com 
